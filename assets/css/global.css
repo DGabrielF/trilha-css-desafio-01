@@ -120,3 +120,18 @@ img {
   overflow-clip-margin: content-box;
   overflow: clip;
 }
+footer {
+  padding: 60px 0;
+  text-align: center;
+  background-image: linear-gradient(rgba(50,168,218,0.0),rgba(50,168,218,0.0), rgba(50,168,218,0.2));
+}
+
+footer .dio-logo {
+  width: 300px;
+
+}
+footer a {
+  color: #33a8db;
+  font-weight: bold;
+  text-decoration: none;
+}
